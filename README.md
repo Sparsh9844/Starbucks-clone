@@ -48,5 +48,7 @@ STARBUCKS/
 │
 └── .git/
 
-Preview
-<img width="2628" height="1863" alt="image" src="https://github.com/user-attachments/assets/75a2394e-49c6-43f8-bf4a-a9ae674fa382" />
+## 📸 Website Preview
+
+![Starbucks Clone](https://github.com/user-attachments/assets/b8d29b78-03b9-4680-b4e8-66ed63548e05)
+
